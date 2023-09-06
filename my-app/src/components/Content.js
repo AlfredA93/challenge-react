@@ -41,6 +41,7 @@ export class Content extends Component {
         <div className={css.TitleBar}>
           <h1>My Photos</h1>
           <form>
+            {/* Search Form here */}
             <label htmlFor="searchInput">Search:</label>
             <input 
             type="search" 
